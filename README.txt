@@ -1,7 +1,7 @@
 
 ......CSCI 402: Operating Systems ......
 
-///THE CODE FOR THIS PROJECT HAS BEEN REMOVED DUE TO USC POLICY. THIS OUTLINE IS ONLY PROVIDED FOR INFORMATIVE PURPOSES///
+///THE CODE FOR THIS PROJECT HAS BEEN REMOVED DUE TO USC POLICY. THE SEGMENTED PRISTINE CODE HAS ONLY BEEN PROVIDED FOR LEARNING PURPOSES AND WILL NOT RUN///
 
 This was a semester-long project created by a series of kernel programming assignments to develop various components of a real operating system (Weenix). It was designed to provide students with hands-on experience in understanding the internals of operating systems. Debugging was addressed using GDB commands to resolve code that has crashed or frozen. Breakpoints were set in lines preceeding these issues, code was stepped through, and then values were printed for potential variables or values causing these issues. Grep command-line searching was also utilized to explore the provided code since this project relied on many given parts while also ommitting other functionalities. Specifically, this project required the creation of processes, drivers, a virtual file system, a system 5 file system, and virtual memory.
 
